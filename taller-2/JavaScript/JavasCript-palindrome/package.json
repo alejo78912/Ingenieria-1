@@ -1,0 +1,12 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Palindrome.js",
+  "scripts": {
+    "start": "node Palindrome.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "javascript-primenumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primeNumbers.js",
+  "scripts": {
+    "start": "node primeNumbers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
