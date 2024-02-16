@@ -36,3 +36,6 @@ Cada carpeta correspondiente a un lenguaje de programación contiene los tallere
 
 ###
 
+<div aling="center">
+  <img src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif" alt="Snake animation" />
+</div>
