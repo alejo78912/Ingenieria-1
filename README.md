@@ -20,10 +20,6 @@ El objetivo de estos talleres es proporcionar a los estudiantes una práctica si
 
 Cada carpeta correspondiente a un lenguaje de programación contiene los talleres numerados en orden secuencial.
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"  />
-</div>
-
 ###
 
 <div align="center">
