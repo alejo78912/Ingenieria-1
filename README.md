@@ -1,6 +1,3 @@
-Por supuesto, aquí tienes un ejemplo de README para tu repositorio de talleres de Ingeniería 1:
-
----
 
 # Talleres de Ingeniería 1: Ejercicios de Lógica en Java, JavaScript y Python
 
